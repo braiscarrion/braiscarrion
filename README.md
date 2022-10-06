@@ -13,10 +13,11 @@ The first thing I ever coded was a square made of asterisks at school when I was
 For the last few years, I´ve been working on international projects. Mainly developing web applications using JS frameworks and Java REST services.
 But in my free time I like to try new technologies and test random ideas that cross my mind on a daily basis.
 
-Here are some of my repositories.
+Here are some of my repositories 😄
 
-[![Brais's GitHub stats](https://github-readme-stats.vercel.app/api?username=braiscarrion&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiscarrion&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Brais's GitHub stats](https://github-readme-stats.vercel.app/api?username=braiscarrion&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiscarrion&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
