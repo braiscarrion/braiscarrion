@@ -8,11 +8,11 @@ The first thing I ever coded was a square made of asterisks at school when I was
     *  *
     *  *
     ****
-
-## I´m a Software Developer
+## I'm a Software Developer
 
 For the last few years, I´ve been working on international projects. Mainly developing web applications using JS frameworks and Java REST services.
 But in my free time I like to try new technologies and test random ideas that cross my mind on a daily basis.
+
 Here are some of my repositories.
 
 <!--
